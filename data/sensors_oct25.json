@@ -1,0 +1,121 @@
+{
+    "T1E": {
+            "position": [0, 6.15,132],
+            "serial": 56640,
+            "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+        },
+
+    "T1W":{
+        "position": [0,-6.15,132],
+        "serial": 56641,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },
+    
+    "G1E": {
+        "position": [-39, 6, 53],
+        "serial": 56541,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },
+
+    "G1W": {
+        "position": [-39, -6, 53],
+        "serial": 56542,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },
+
+    "G2E": {
+        "position": [47, 6, 53],
+        "serial": 56543,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },
+
+    "G2W": {
+        "position": [47, -6, 53],
+        "serial": 56544,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },
+
+    "G3E": {
+        "position": [107, 6, 53],
+        "serial": 56545,
+        "transformation_mat": [[-1,0,0],[0,-1,0], [0,0,1]]          
+  },
+
+    "G3W": {
+        "position": [107, -6, 53],
+        "serial": 56546,
+        "transformation_mat": [[-1,0,0],[0,-1,0], [0,0,1]]          
+  },  
+
+    "G4E": {
+        "position": [147, 6, 53],
+        "serial": 56547,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  }, 
+
+    "G4W": {
+        "position": [147, -6, 53],
+        "serial": 56548,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G5E": {
+        "position": [187, 6, 53],
+        "serial": 56549,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G5W": {
+        "position": [187, -6, 53],
+        "serial": 56550,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G6E": {
+        "position": [227, 6, 53],
+        "serial": 56552,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  }, 
+
+    "G6W": {
+        "position": [227, -6, 53],
+        "serial": 56553,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },   
+
+    "G7E": {
+        "position": [267, 6, 53],
+        "serial": 56554,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G7W": {
+        "position": [267, -6, 53],
+        "serial": 56555,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G8E": {
+        "position": [305, 6, 53],
+        "serial": 56556,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  },  
+
+    "G8W": {
+        "position": [305, -6, 53],
+        "serial": 56557,
+        "transformation_mat": [[0,1,0],[1,0,0], [0,0,1]]          
+  },   
+
+    "G9E": {
+        "position": [330, 6, 53],
+        "serial": 56558,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  }, 
+
+    "G9W": {
+        "position": [330, -6, 53],
+        "serial": 56639,
+        "transformation_mat": [[1,0,0],[0,1,0], [0,0,1]]          
+  }   
+}
