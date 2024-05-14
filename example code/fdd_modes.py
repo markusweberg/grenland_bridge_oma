@@ -1,5 +1,3 @@
-import numpy as np
-
 modes = np.zeros((n, len(picked_freq)))
 
 for k in range(picked_freq.shape[0]):

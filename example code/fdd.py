@@ -1,4 +1,3 @@
-import numpy as np
 import scipy.linalg as spla
 
 w = np.linspace(0, fs/2, Sxy.shape[2])

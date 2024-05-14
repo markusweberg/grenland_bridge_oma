@@ -1,4 +1,3 @@
-import numpy as np
 import koma.oma
 
 i = 200
@@ -6,7 +5,7 @@ order = np.arange(2, 62, 2)
 
 stabcrit = {'freq':0.05, 'damping':0.2, 'mac':0.1}
 s = 2
-valid_range = {'freq':[0, np.inf], 'damping':[0, 0.3], 'mpc':[0.4, 1]}
+valid_range = {'freq':[0, np.inf], 'damping':[0, 0.3], 'mpc':[0.6, 1]}
 
 fs = 16
 

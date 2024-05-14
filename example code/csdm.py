@@ -1,4 +1,3 @@
-import numpy as np
 import scipy.signal as scs
 
 acceleration_data = scs.detrend(acceleration_data, axis=0)
