@@ -1,6 +1,6 @@
 import koma.clustering
 
-pole_clusterer = koma.clustering.PoleClusterer(lambd_stab, phi_stab, orders_stab, min_cluster_size=7, min_samples=7, scaling={'mac':0.4, 'omega_n':0.8}, normalize_distances=False)
+pole_clusterer = koma.clustering.PoleClusterer(lambd_stab, phi_stab, orders_stab, min_cluster_size=6, min_samples=6, scaling={'mac':0.4, 'omega_n':0.8}, normalize_distances=False)
 
 prob_threshold = 1.0
 
